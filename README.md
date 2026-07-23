@@ -50,3 +50,15 @@ Keep the two values identical.
 
 ## Artwork
 The PNG sprites in `FlyingToasters/Assets` are original pixel artwork generated.
+
+📚 References
+
+After Dark Wikipedia:
+[https://docwiki.embarcadero.com/InterBase/2020/en/Main_Page](https://en.wikipedia.org/wiki/After_Dark_(software))
+
+
+📜 License
+
+MIT License
+
+Copyright (c) 2026 David Scott Bird/Mark Teicher, TruSecure, LLC
