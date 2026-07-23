@@ -56,7 +56,7 @@ The PNG sprites in `FlyingToasters/Assets` are original pixel artwork generated.
 After Dark Wikipedia:
 [https://docwiki.embarcadero.com/InterBase/2020/en/Main_Page](https://en.wikipedia.org/wiki/After_Dark_(software))
 
-## 📜 License
+##  License
 
 
 
