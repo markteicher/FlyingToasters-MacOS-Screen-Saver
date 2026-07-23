@@ -1,6 +1,6 @@
 # Flying Toasters — macOS Screen Saver
 
-![InterBase](docs/images/flying_toasters.png)
+![InterBase](docs/images/FlyingToasters.gif)
 
 An original pixel-art, flying-toaster-style screen saver for macOS.
 
