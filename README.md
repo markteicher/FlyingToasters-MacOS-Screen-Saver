@@ -49,4 +49,4 @@ Change this in both:
 Keep the two values identical.
 
 ## Artwork
-The PNG sprites in `FlyingToasters/Assets` are original pixel artwork generated for this project; they are not copied from the classic After Dark screen saver.
+The PNG sprites in `FlyingToasters/Assets` are original pixel artwork generated.
