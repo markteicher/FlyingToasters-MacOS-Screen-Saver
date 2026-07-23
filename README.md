@@ -51,6 +51,8 @@ Keep the two values identical.
 ## Artwork
 The PNG sprites in `FlyingToasters/Assets` are original pixel artwork generated.
 
+Original After Dark 2.0 Flying Toasters! © 1990 Berkeley Systems Inc. by Jack Eastman, Bruce Burkhalter, and Patrick Beard. Artwork by Tomoya Ikeda.
+
 📚 References
 
 After Dark Wikipedia:
